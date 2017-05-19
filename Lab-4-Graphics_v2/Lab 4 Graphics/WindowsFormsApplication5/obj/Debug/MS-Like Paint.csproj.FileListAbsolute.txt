@@ -1,0 +1,20 @@
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.MainForm.resources
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\MS-Like Paint.csproj.GenerateResource.Cache
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\NamBlue\Desktop\Lab-4-Graphics\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\MS-Like Paint.csprojResolveAssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.MainForm.resources
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\steve\OneDrive\Documents\Visual Studio 2015\Projects\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\MS-Like Paint.csproj.GenerateResource.Cache
+C:\Users\steve\Documents\Visual Studio 2015\Projects\Labs\LeeJiaQi_MaSteven_Lab4_V2\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\steve\Documents\Visual Studio 2015\Projects\Labs\LeeJiaQi_MaSteven_Lab4_V2\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\steve\Documents\Visual Studio 2015\Projects\Labs\LeeJiaQi_MaSteven_Lab4_V2\Lab-4-Graphics_v2\Lab 4 Graphics\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
